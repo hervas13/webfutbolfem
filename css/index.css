@@ -1,0 +1,16 @@
+footer{
+    text-align: center;
+
+}
+
+#noticies iframe
+{
+    right: 10px;
+    position: relative;
+    display: block;
+    float: right;
+}
+
+#logoRCD{
+    top: auto;
+}

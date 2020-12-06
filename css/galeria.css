@@ -1,0 +1,25 @@
+header
+{
+    margin-bottom: 20px;
+}
+
+h1{
+    color: violet;
+    margin-left: 400px;
+}
+
+h2{
+    color: violet;
+    margin-left: 400px;
+}
+
+h3{
+    color: violet;
+    margin-left: 400px;
+}
+
+iframe
+{
+    position: relative;
+    left: 400px;
+}

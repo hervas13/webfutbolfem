@@ -1,0 +1,92 @@
+#Iberdrola{
+    margin: auto;
+    text-align: center;
+    margin-top:100px;
+    margin-left: 500px;
+}
+p{
+    text-align: center;
+    margin: auto;
+}
+
+#menu {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 102px;
+    text-align: center;
+    background-color:rgb(2,2,2);
+    -webkit-box-align: center;
+    text-align: center;
+    z-index: 1900;
+}
+
+#infogeneral {
+    position: fixed;
+    top: 250px;
+    width: 100%;
+    height: 102px;
+    float:left;
+    color: rgb(252, 4, 4);
+    text-decoration-color: aqua
+;
+
+}
+#indexenllaç:hover{
+    background-color: rgb(181, 243, 36);
+}
+#classifenllaç:hover{
+    background-color: blue;
+}
+#resultatsenllaç:hover{
+    background-color: green;
+}
+#galeriaenllaç:hover{
+    background-color: red;
+}
+header{
+    position: relative;
+    top: 50px;
+}
+
+main {
+    position: relative;
+    top: 50px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    height: 20%;
+    top: 70px;
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+    color: rgb(252, 253, 251);
+}
+
+.leftbox {
+    color: white;
+    height: 10px;
+    width: 200px;
+    padding: 30px;
+    padding-top: 25px;
+    position: relative;
+    top: 5px;
+    left: 17.5%;
+    float: left;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.rightbox {
+    color: white;
+    height: 10px;
+    width: 200px;
+    padding: 30px;
+    padding-top: 25px;
+    position: relative;
+    top: 5px;
+    right: 17.5%;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+}
